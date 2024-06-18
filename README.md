@@ -68,6 +68,8 @@ From keyword research to link analysis, these tools are the Swiss army knives of
 
 - [Spexia](https://getspexia.com) - All in one tool to create & optimize informational content (specialized on ECom shops).
 
+- [DAXRM](https://www.daxrm.com/) - The First All-in-one SEO Agency CRM.
+
 ## Keyword Research
 
 Uncover high-potential keywords to target and captivate your audience.
@@ -137,6 +139,8 @@ Monitor your website's position in search results and gauge your SEO strategies'
 - [AccuRanker](https://www.accuranker.com/) - The world's fastest & most accurate rank tracker.
 
 - [Nightwatch](https://nightwatch.io/) - Nightwatch is a cloud-based SEO and analytics tool that focuses on rank tracking and reporting.
+
+- [DAXRM](https://www.daxrm.com/integrations/rank-tracker/) - Real-time rank tracking tool to check search engine rankings for any device and location.
 
 - Other "All in one SEO tools" offer this feature as well.
 
